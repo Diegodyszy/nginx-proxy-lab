@@ -1,0 +1,5 @@
+cd ~/apache-proxy-lab
+cat << 'EOF' > .gitignore
+.env
+*.log
+EOF
