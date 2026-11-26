@@ -1,4 +1,4 @@
-cd ~/apache-proxy-lab
+cd ~/nginx-proxy-lab
 cat << 'EOF' > .gitignore
 .env
 *.swp
